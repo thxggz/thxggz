@@ -69,17 +69,7 @@ Tenho experiência prática com **Python, SQL, React, React Native, JavaScript, 
 
 ---
 
-## 📊 Atividade no GitHub
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thxggz/thxggz/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thxggz/thxggz/output/github-snake.svg">
-  <img alt="Henrique Goldstein GitHub contribution animation" src="https://raw.githubusercontent.com/thxggz/thxggz/output/github-snake.svg">
-</picture>
-
-</div>
 
 ---
 
