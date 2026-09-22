@@ -92,3 +92,48 @@ Inteligência Artificial  ██████████████████
 Automação                 ██████████████████░░
 Análise de Dados          █████████████████░░░
 Desenvolvimento           █████████████████░░░
+
+
+
+
+## 🎯 Foco Profissional
+
+- Aplicar **tecnologia ao mercado financeiro**
+- Desenvolver soluções utilizando **IA e automação**
+- Transformar processos e dados em **produtos e decisões melhores**
+- Evoluir em **engenharia de software, dados e arquitetura de sistemas**
+- Trabalhar na interseção entre **negócio + tecnologia + finanças**
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/henriquegoldstein">
+  <img src="https://img.shields.io/badge/LinkedIn-Henrique%20Goldstein-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kikeamaral@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/thxggz">
+  <img src="https://img.shields.io/badge/GitHub-thxggz-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Tecnologia + Dados + IA + Negócios
+
+**Henrique Goldstein**
+
+Analista de Projetos e Negócios • Engenharia da Computação
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
