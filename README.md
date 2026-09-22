@@ -61,9 +61,13 @@ Tenho experiência prática com **Python, SQL, React, React Native, JavaScript, 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thxggz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-  <br><br>
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=thxggz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Henrique GitHub Stats"/>
+<br>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thxggz&theme=tokyo-night&hide_border=true" alt="Henrique activity graph"/>
 
 </div>
 ---
