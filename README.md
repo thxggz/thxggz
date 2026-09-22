@@ -61,14 +61,11 @@ Tenho experiência prática com **Python, SQL, React, React Native, JavaScript, 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thxggz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-</div>
+  <br><br>
 
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thxggz&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thxggz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Henrique GitHub Stats"/>
 
 </div>
-
 ---
 
 ## 🏆 Projetos em Destaque
